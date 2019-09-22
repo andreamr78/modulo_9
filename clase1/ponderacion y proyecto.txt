@@ -1,0 +1,15 @@
+PONDERACION:
+
+asistencia 10%
+practicas 40%
+proyectos 20%
+tareas 10%
+examen 20%
+
+CREATE
+READ
+UPDATE
+DELETE
+
+PROYECTO:
+realizar catalogo de informacion que pueda realizar un CRUD
