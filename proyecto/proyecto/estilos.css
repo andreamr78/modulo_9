@@ -1,0 +1,18 @@
+.fondo{
+    background-color: antiquewhite;
+}
+.navbar{
+    background-color: darksalmon;
+    opacity: 0.7;
+}
+.flores{
+    height:500px;
+    width:800px;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+
+.sesion{
+    margin-top: 200px;
+    margin-right: -200px;
+}
